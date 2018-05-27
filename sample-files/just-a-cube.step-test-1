@@ -1,0 +1,14 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
+FILE_NAME(
+  'C:/Users/barraud/Downloads/grade-my-assignment/just-a-cube.step',
+  '2018-04-22T11:19:07',('Author'),(''),
+  'Open CASCADE STEP processor 6.8','FreeCAD','Unknown');
+FILE_SCHEMA(('AUTOMOTIVE_DESIGN_CC2 { 1 2 10303 214 -1 1 5 4 }'));
+ENDSEC;
+DATA;
+#27 = CLOSED_SHELL('',(#28));
+#28 = ADVANCED_FACE('',.F.);
+ENDSEC;
+END-ISO-10303-21;
